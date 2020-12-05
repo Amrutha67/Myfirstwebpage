@@ -1,0 +1,23 @@
+.bgcolor{
+    background : rgb(68, 150, 161))url(" ../tuitionbg.jpg") no-repeat fixed center ;
+}
+.textstyles{
+    background-color:rgb(54, 122, 168);
+    font-size: 60px;
+    font-weight: bold;
+    color: white;
+}
+.text{
+    background-color:lightblue;
+}
+.reg{
+    font-size: 50px;
+    font-style: oblique;
+    color:rebeccapurple
+
+}
+
+.about{
+    font-style: oblique;
+    font-size:20px
+}
